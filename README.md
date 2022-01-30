@@ -19,3 +19,6 @@ $ python -c "import nltk; nltk.download('punkt')"
 ## Usage:
 * Run main.py and enter the path of the text file
 * After that, a text file that summarizes the read text file into two tenths is created
+
+
+
